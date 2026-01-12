@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "event-academic",
+      "description": "A lecture hall with students.",
+      "imageUrl": "https://images.unsplash.com/photo-1766476210492-824c8a4b79b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxsZWN0dXJlJTIwYWNhZGVtaWN8ZW58MHx8fHwxNzY4MjE0ODM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lecture academic"
+    },
+    {
+      "id": "event-social",
+      "description": "A group of friends laughing together.",
+      "imageUrl": "https://images.unsplash.com/photo-1746003625451-fb19865e19b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c29jaWFsJTIwZ2F0aGVyaW5nfGVufDB8fHx8MTc2ODIwNjIxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "social gathering"
+    },
+    {
+      "id": "event-sports",
+      "description": "A basketball game in a gym.",
+      "imageUrl": "https://images.unsplash.com/photo-1762860798482-86dd20096b44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzcG9ydHMlMjBiYXNrZXRiYWxsfGVufDB8fHx8MTc2ODIxNDgzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sports basketball"
+    },
+    {
+      "id": "event-workshop",
+      "description": "People collaborating around a table with laptops.",
+      "imageUrl": "https://images.unsplash.com/photo-1728933102332-a4f1a281a621?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3b3Jrc2hvcCUyMGNvbGxhYm9yYXRpb258ZW58MHx8fHwxNzY4MTQ0OTc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "workshop collaboration"
+    },
+    {
+      "id": "event-music",
+      "description": "A live band performing on stage.",
+      "imageUrl": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtdXNpYyUyMGNvbmNlcnR8ZW58MHx8fHwxNzY4MTc3MzE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "music concert"
+    },
+    {
+      "id": "event-art",
+      "description": "An art gallery with paintings on the wall.",
+      "imageUrl": "https://images.unsplash.com/photo-1507643179773-3e975d7ac515?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhcnQlMjBnYWxsZXJ5fGVufDB8fHx8MTc2ODIwMzY5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "art gallery"
+    },
+    {
+      "id": "campus-map",
+      "description": "A bird's eye view of a university campus.",
+      "imageUrl": "https://images.unsplash.com/photo-1631388167553-8f9cda9cf1a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjYW1wdXMlMjBtYXB8ZW58MHx8fHwxNzY4MTkxMTcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "campus map"
+    },
+    {
+      "id": "hero-image",
+      "description": "Students walking on a university campus.",
+      "imageUrl": "https://images.unsplash.com/flagged/photo-1554473675-d0904f3cbf38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx1bml2ZXJzaXR5JTIwY2FtcHVzfGVufDB8fHx8MTc2ODE0MTc2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "university campus"
+    }
+  ]
+}
