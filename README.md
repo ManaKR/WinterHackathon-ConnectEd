@@ -4,6 +4,7 @@
 Students don't lack opportunities-they lack meaningful connections.ConnectEd makes those connections happen.
 ConnectED helps students discover campus events and opportunities that truly match their interests.
 It bridges the gap between abundant campus opportunities and student participation through smart recommendations.
+
 # Demo Video Link: 
 
 ## Features
@@ -15,6 +16,7 @@ It bridges the gap between abundant campus opportunities and student participati
 -React.js  / Next.js
 -Node.js  / Express
 -Firebase Firestore
+-Google AI Studio
 -Firebase Hosting / Vercel
 -Git & GitHub
 
