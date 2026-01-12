@@ -1,0 +1,89 @@
+/* Full-page container with background image + gradient overlay */
+.login-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* Replace bg.jpg with your own image in public/images */
+  background: 
+    linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+    url("D:\WINTERHACKATHON\auth-ui\public\bg.jpg") no-repeat center center fixed;
+  background-size: cover;
+
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Glassmorphism login box */
+.login-box {
+  backdrop-filter: blur(12px);
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 15px;
+  padding: 2rem;
+  width: 320px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+  text-align: center;
+  color: #fff;
+  animation: fadeInUp 1s ease;
+}
+
+.login-box h2 {
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+/* Input fields */
+.login-box input {
+  width: 100%;
+  margin: 12px 0;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  outline: none;
+  background: rgba(255,255,255,0.85);
+  font-size: 14px;
+}
+
+/* Buttons */
+.login-box button {
+  width: 100%;
+  padding: 12px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.login-box button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+/* Toggle link */
+.toggle {
+  margin-top: 15px;
+  color: #ffccff;
+  cursor: pointer;
+  font-size: 14px;
+  transition: color 0.2s ease;
+}
+
+.toggle:hover {
+  color: #ffffff;
+}
+
+/* Fade-in animation */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
