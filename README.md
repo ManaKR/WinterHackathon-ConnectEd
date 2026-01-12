@@ -1,8 +1,9 @@
  # ConnectED-Smart Campus Engagement Platform
  
 ## Description
-A personalized platform that helps students discover campus opportunities without the noise. It solves the problem of scattered information and low participation by intelligently connecting students to events, clubs, and activities that match their interests, schedules, and goals. Designed for university students who want to feel more connected to their campus community.
-
+Students don't lack opportunities-they lack meaningful connections.ConnectEd makes those connections happen.
+ConnectED helps students discover campus events and opportunities that truly match their interests.
+It bridges the gap between abundant campus opportunities and student participation through smart recommendations.
 # Demo Video Link: 
 
 ## Features
@@ -18,9 +19,10 @@ A personalized platform that helps students discover campus opportunities withou
 -Git & GitHub
 
 ## Google Technologies Used
--Firebase Firestore – To store and manage real-time event and club data.
+-Firebase Firestore - "I remember everything, update everyone instantly, and even keep things safe when the internet disappears."              
+To store and manage real-time event and club data.
 
-## Team Members
+#Team Members 
 - Manasvi K R
 - Leizel Pinto
 - Sonal B M
