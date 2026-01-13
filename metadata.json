@@ -1,0 +1,8 @@
+{
+  "name": "CampusConnect: College Event Tracker",
+  "description": "A comprehensive event management system for colleges with AI-powered poster generation, venue grounding, and attendance verification.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
