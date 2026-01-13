@@ -25,7 +25,7 @@ It bridges the gap between abundant campus opportunities and student participati
 To store and manage real-time event and club data.
 
 ##Team Members 
-- Manasvi K R - 
-- Leizel Pinto
-- Sonal B M
+- Manasvi K R - ui and design
+- Leizel Pinto- ui,design
+- Sonal B M-prompt generator ,ai specialist
 >>>>>>> 126d2fc10c00c4a6cad8716e7cbdf9dcdc27ac42
